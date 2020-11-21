@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'eu.mapof.usa:id/Headliner', 'eu.mapof.usa:id/AppName', 'eu.mapof.usa:id/TextVersion', 'eu.mapof.usa:id/dashboard', 'eu.mapof.usa:id/SettingsButton', 'eu.mapof.usa:id/SearchButton', 'eu.mapof.usa:id/MapButton', 'eu.mapof.usa:id/FavoritesButton', 'eu.mapof.usa:id/linearContainer', 'eu.mapof.usa:id/imageViewLike']

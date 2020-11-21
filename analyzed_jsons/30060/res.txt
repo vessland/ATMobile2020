@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'com.hellochinese:id/logo_container', 'com.hellochinese:id/logo', 'com.hellochinese:id/control_container', 'com.hellochinese:id/try_btn', 'com.hellochinese:id/login_btn', 'com.hellochinese:id/mask']

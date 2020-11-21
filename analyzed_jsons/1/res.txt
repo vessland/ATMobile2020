@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'com.brc.PeriodTrackerDiary:id/webViewContainer', 'com.brc.PeriodTrackerDiary:id/ads', 'android:id/navigationBarBackground']

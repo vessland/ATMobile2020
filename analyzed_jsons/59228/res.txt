@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'com.utagoe.momentdiary:id/headerLayout', 'com.utagoe.momentdiary:id/header', 'com.utagoe.momentdiary:id/closeBtn', 'com.utagoe.momentdiary:id/titleTxt', 'com.utagoe.momentdiary:id/main', 'com.utagoe.momentdiary:id/listview']

@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'com.developerssimplifylives.xmaslistfree:id/reuse_tos_activitylayout_appspecclauses', 'com.developerssimplifylives.xmaslistfree:id/tos_activitylayout_acceptbtn', 'com.developerssimplifylives.xmaslistfree:id/tos_activitylayout_rejectbtn']

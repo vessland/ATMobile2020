@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'com.opengarden.firechat:id/carousel', 'com.opengarden.firechat:id/b_already_have_pin', 'com.opengarden.firechat:id/sign_in', 'com.opengarden.firechat:id/sign_up', 'com.opengarden.firechat:id/indicator', 'com.opengarden.firechat:id/textView1', 'com.opengarden.firechat:id/pageImage', 'android:id/navigationBarBackground']

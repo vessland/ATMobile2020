@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'com.turkcell.bip:id/action_bar_root', 'com.turkcell.bip:id/action_mode_bar_stub', 'android:id/content', 'com.turkcell.bip:id/tosWebView', 'com.turkcell.bip:id/tosHeader', 'com.turkcell.bip:id/tos_header_link_textviews', 'com.turkcell.bip:id/btnApprove', 'android:id/navigationBarBackground', 'android:id/statusBarBackground']

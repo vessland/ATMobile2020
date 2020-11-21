@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'co.kidcasa.app:id/action_bar_root', 'co.kidcasa.app:id/action_mode_bar_stub', 'android:id/content', 'co.kidcasa.app:id/toolbar', 'co.kidcasa.app:id/staff_teacher_button', 'co.kidcasa.app:id/parent_button']

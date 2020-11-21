@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'com.raycom.wect:id/inter_nav_menu', 'com.raycom.wect:id/interstitial_ad_view']

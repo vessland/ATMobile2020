@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'pkg.rop:id/topPanner', 'pkg.rop:id/offPayTitle', 'pkg.rop:id/offPayWV', 'pkg.rop:id/bottomPanner']

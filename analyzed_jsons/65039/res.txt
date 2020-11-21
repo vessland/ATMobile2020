@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'com.digivive.offdeck:id/action_bar_root', 'android:id/content', 'com.digivive.offdeck:id/toolbar', 'com.digivive.offdeck:id/image', 'com.digivive.offdeck:id/version', 'com.digivive.offdeck:id/copyright', 'com.digivive.offdeck:id/action_mode_bar_stub', 'android:id/navigationBarBackground', 'android:id/statusBarBackground']

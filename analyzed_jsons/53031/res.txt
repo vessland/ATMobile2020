@@ -1,0 +1,1 @@
+['android:id/title', 'android:id/titleDivider', 'android:id/content', 'com.spicymango.fanfictionreader:id/filter_table', 'android:id/text1', 'android:id/text1', 'android:id/text1', 'android:id/text1', 'android:id/text1', 'com.spicymango.fanfictionreader:id/filter_run']

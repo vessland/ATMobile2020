@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'com.facebook.katana:id/platform_dialog_webview', 'android:id/navigationBarBackground', 'android:id/statusBarBackground']

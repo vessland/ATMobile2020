@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'com.nikon.spoton:id/lblCountryListHeader', 'android:id/list', 'com.nikon.spoton:id/label', 'com.nikon.spoton:id/label', 'android:id/empty']

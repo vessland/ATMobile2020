@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'com.telos.app.im:id/pager', 'com.telos.app.im:id/tv_first_title', 'com.telos.app.im:id/tv_first_content', 'com.telos.app.im:id/tip_top', 'com.telos.app.im:id/tip_bottom', 'com.telos.app.im:id/button', 'com.telos.app.im:id/indicator']

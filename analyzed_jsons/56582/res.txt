@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'com.max.IllusionsPro:id/iView', 'com.max.IllusionsPro:id/LinearLayout01', 'com.max.IllusionsPro:id/TextView03', 'com.max.IllusionsPro:id/Image01', 'com.max.IllusionsPro:id/ScrollView01', 'com.max.IllusionsPro:id/TextView02', 'com.max.IllusionsPro:id/LinearLayout01', 'com.max.IllusionsPro:id/adView']

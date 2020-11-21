@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'com.mysms.android.sms:id/pager', 'com.mysms.android.sms:id/arrow_left', 'com.mysms.android.sms:id/pageIndex', 'com.mysms.android.sms:id/arrow_right', 'android:id/navigationBarBackground', 'android:id/statusBarBackground']

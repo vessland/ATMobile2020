@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'com.glassy.pro:id/dialog_smartband_layoutMiddle', 'com.glassy.pro:id/dialog_smartband_btnMoreInfo', 'com.glassy.pro:id/dialog_smartband_btnClose']

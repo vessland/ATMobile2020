@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/title', 'android:id/content', 'ssssolutions.mindreader2pro:id/question', 'ssssolutions.mindreader2pro:id/imageView1', 'ssssolutions.mindreader2pro:id/linearLayout1', 'ssssolutions.mindreader2pro:id/no4', 'ssssolutions.mindreader2pro:id/yes4']

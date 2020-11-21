@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'com.dokdoapps.mybabymusicboxes:id/bg', 'com.dokdoapps.mybabymusicboxes:id/exitBg', 'com.dokdoapps.mybabymusicboxes:id/arraw', 'com.dokdoapps.mybabymusicboxes:id/btnExit']

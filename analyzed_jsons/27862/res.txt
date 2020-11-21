@@ -1,0 +1,1 @@
+['android:id/title', 'android:id/titleDivider', 'android:id/content', 'com.dailyroads.v:id/msg_text', 'com.dailyroads.v:id/msg_text_end', 'com.dailyroads.v:id/plus_one_button', 'com.dailyroads.v:id/rate_button', 'com.dailyroads.v:id/ad_text', 'com.dailyroads.v:id/ad_layout']

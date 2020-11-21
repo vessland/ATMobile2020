@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'com.kauf.virtuallighter:id/FrameLayoutAppListMain', 'com.kauf.virtuallighter:id/LinearLayoutAppListContainer', 'com.kauf.virtuallighter:id/ImageViewAppListClose', 'com.kauf.virtuallighter:id/ProgressBarAppList']

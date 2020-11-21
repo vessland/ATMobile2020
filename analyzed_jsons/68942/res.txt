@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'com.askfm:id/action_bar_root', 'android:id/content', 'com.askfm:id/applicationToolbar', 'com.askfm:id/webPreviewContainer', 'com.askfm:id/webViewContainer', 'com.askfm:id/webViewLoadingProgress', 'com.askfm:id/action_mode_bar_stub', 'android:id/navigationBarBackground', 'android:id/statusBarBackground']

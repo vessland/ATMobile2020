@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'com.kauf.particle.virtualcandle:id/ImageViewStart', 'com.kauf.particle.virtualcandle:id/LinearLayoutStartAd', 'com.kauf.particle.virtualcandle:id/WebViewAdStart1', 'com.kauf.particle.virtualcandle:id/WebViewAdStart2']

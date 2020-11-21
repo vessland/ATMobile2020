@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'com.gartorware.sortinghat:id/action_bar_root', 'com.gartorware.sortinghat:id/action_mode_bar_stub', 'android:id/content', 'com.gartorware.sortinghat:id/apptitle', 'com.gartorware.sortinghat:id/applogo', 'com.gartorware.sortinghat:id/startbtn', 'android:id/navigationBarBackground', 'android:id/statusBarBackground']

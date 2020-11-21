@@ -1,0 +1,1 @@
+['android:id/content', 'mic.app.gastosdiarios:id/relativeLayoutMain', 'mic.app.gastosdiarios:id/titleDialog', 'mic.app.gastosdiarios:id/imageCertificate', 'mic.app.gastosdiarios:id/text1', 'mic.app.gastosdiarios:id/text2', 'mic.app.gastosdiarios:id/buttonYes', 'mic.app.gastosdiarios:id/buttonNo', 'android:id/action_mode_bar_stub']

@@ -1,0 +1,1 @@
+['android:id/content', 'com.prankcalllabs.prankcallapp:id/dialog_title', 'com.prankcalllabs.prankcallapp:id/dialog_message', 'com.prankcalllabs.prankcallapp:id/agree_layout', 'com.prankcalllabs.prankcallapp:id/agree_check', 'com.prankcalllabs.prankcallapp:id/continue_button', 'android:id/action_mode_bar_stub']

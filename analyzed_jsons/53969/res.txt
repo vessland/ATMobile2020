@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'com.teerstudios.abschallenge:id/rlayout_setting', 'com.teerstudios.abschallenge:id/textView_heading_settings', 'com.teerstudios.abschallenge:id/txtV_showAlarmTime', 'com.teerstudios.abschallenge:id/btn_setNotifyTime', 'com.teerstudios.abschallenge:id/btn_cancelNotify', 'com.teerstudios.abschallenge:id/btn_resetDays']

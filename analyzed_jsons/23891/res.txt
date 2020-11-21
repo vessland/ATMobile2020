@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'com.perfectcorp.ycn:id/tutorialViewPager', 'com.perfectcorp.ycn:id/tutorialGetStartedBtn', 'com.perfectcorp.ycn:id/tutorialGetStartedBtn', 'com.perfectcorp.ycn:id/tutorialGestureView', 'com.perfectcorp.ycn:id/leftArrowBtn', 'com.perfectcorp.ycn:id/rightArrowBtn', 'com.perfectcorp.ycn:id/tutorialIndicatorView']

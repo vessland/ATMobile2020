@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'com.kauf.talking.maxthefirefighter:id/ImageViewPrePostAd', 'com.kauf.talking.maxthefirefighter:id/img_close', 'com.kauf.talking.maxthefirefighter:id/ViewPrePostAdIdle', 'com.kauf.talking.maxthefirefighter:id/ViewPrePostAdYes', 'com.kauf.talking.maxthefirefighter:id/ViewPrePostAdNo']

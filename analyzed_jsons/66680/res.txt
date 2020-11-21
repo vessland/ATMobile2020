@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'io.gonative.android.rzkyq:id/mnLayout', 'io.gonative.android.rzkyq:id/activity_main_webview', 'io.gonative.android.rzkyq:id/xwalkWebView', 'io.gonative.android.rzkyq:id/xwalkWebView', 'io.gonative.android.rzkyq:id/xwalkWebView', 'io.gonative.android.rzkyq:id/progressBar', 'io.gonative.android.rzkyq:id/fullscreen']

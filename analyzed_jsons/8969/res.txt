@@ -1,0 +1,1 @@
+['android:id/content', 'com.rokoroku.lolmessengerv2:id/thumbnail_icon', 'com.rokoroku.lolmessengerv2:id/title', 'com.rokoroku.lolmessengerv2:id/content', 'com.rokoroku.lolmessengerv2:id/checkBox', 'com.rokoroku.lolmessengerv2:id/buttonOK', 'com.rokoroku.lolmessengerv2:id/buttonCancel', 'android:id/action_mode_bar_stub']

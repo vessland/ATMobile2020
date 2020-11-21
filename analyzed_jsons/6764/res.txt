@@ -1,0 +1,1 @@
+['android:id/action_mode_bar_stub', 'android:id/content', 'com.obscience.imamma:id/body', 'com.obscience.imamma:id/profilo_titolo', 'com.obscience.imamma:id/profilo_mamma_button', 'com.obscience.imamma:id/profilo_mamma_text', 'com.obscience.imamma:id/profilo_medico_button', 'com.obscience.imamma:id/profilo_medico_text', 'com.obscience.imamma:id/banner']

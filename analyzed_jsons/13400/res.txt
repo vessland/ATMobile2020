@@ -1,0 +1,1 @@
+['android:id/content', 'com.cube.arc.pfa:id/root', 'com.cube.arc.pfa:id/surface_view', 'com.cube.arc.pfa:id/shutter', 'com.cube.arc.pfa:id/videos', 'android:id/action_mode_bar_stub']
